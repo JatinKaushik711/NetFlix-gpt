@@ -8,6 +8,10 @@
 -Sign Up form
 -Form Validation
 -useRef Hook
+-FireBase Setup
+-Create SignUp User Account
+-Implement Sign-In user API
+-Created Redux Store with userSlice
 
 # Features
 -Login-Sign up Page
