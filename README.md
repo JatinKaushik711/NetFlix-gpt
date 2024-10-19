@@ -26,20 +26,24 @@
 - Updtae Store with Trailer Video Data
 - Embedded the youtube video and make it autoplay and mute
 - Tailwind Classes to make Main Container look amazing
+- Build Secondary Component
+- Build Movie Cards
+- TMDB Image CDN
+
 
 
 
 # Features
--Login-Sign up Page
-       -Sign In/Sign Up Form
-       -redirect to Browse Page
-  -Browser (after authentication)
-       -Header
-       -Main Movie
-          -Trailer in BG
-          -Title & description
-          -MovieSuggestions
-              -MovieLists * N
+- Login-Sign up Page
+       - Sign In/Sign Up Form
+       - redirect to Browse Page
+  - Browser (after authentication)
+       - Header
+       - Main Movie
+          - Trailer in BG
+          - Title & description
+          - MovieSuggestions
+              - MovieLists * N
  =NetFlix-gpt
-      -Search Bar
-      -Movie Suggestions
+      - Search Bar
+      - Movie Suggestions
