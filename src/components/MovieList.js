@@ -1,7 +1,7 @@
 import MovieCard from "./MovieCard";
 
 const MovieList = ({ title, movies }) => {
-    console.log(movies);
+  
 
     // Handle the case where movies might be null or not an array
     const hasMovies = Array.isArray(movies) && movies.length > 0;
