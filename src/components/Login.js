@@ -74,7 +74,7 @@ const Login = () => {
             <Header />
             <div className="absolute">
                 <img 
-                    className="w-screen"
+                    className="w-screen h-screen object-cover"
                     src="https://cdn.neowin.com/news/images/uploaded/2023/05/1683747988_background-size1920x1080-4e1694a6-75aa-4c36-9d4d-7fb6a3102005-bc5318781aad7f5c8520.jpg"
                     alt="bg-img"
                 />
@@ -82,7 +82,7 @@ const Login = () => {
         
             <form 
                 onSubmit={handleButtonClick}  // Handle form submission
-                className="w-3/12 absolute p-12 bg-black my-36 mx-auto right-0 left-0 text-white rounded-lg bg-opacity-85"
+                className=" w-8/12 md:w-3/12 absolute p-12 bg-black my-36 mx-auto right-0 left-0 text-white rounded-lg bg-opacity-85"
             >
                 <h1 className="text-2xl font-bold py-4">
                     {isSignInForm ? "Log In" : "Sign Up"}

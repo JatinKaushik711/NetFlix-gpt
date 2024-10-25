@@ -30,6 +30,7 @@
 - Build Movie Cards
 - TMDB Image CDN
 - Add more Hooks for different kind of movie lists
+- Add Responsive Features
 
 
 
